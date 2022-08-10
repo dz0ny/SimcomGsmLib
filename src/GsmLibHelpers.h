@@ -3,7 +3,7 @@
 
 #include <WString.h>
 #include "SimcomGsmTypes.h"
-#include "Network\GsmAsyncSocket.h"
+#include "Network/GsmAsyncSocket.h"
 #include <FixedString.h>
 
 const __FlashStringHelper* SocketEventTypeToStr(SocketEventType socketEvent);
